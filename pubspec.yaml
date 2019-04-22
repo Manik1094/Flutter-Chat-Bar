@@ -1,8 +1,8 @@
 name: flutter_chat_bar
-description: A new Flutter package.
+description: A new Flutter package which helps you to implement beautiful animated Chat Bar in your app.
 version: 0.0.1
 author: Manik Gupta <guptamanik1999@gmail.com>
-homepage:
+homepage: https://github.com/Manik1094/Flutter-Chat-Bar
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
